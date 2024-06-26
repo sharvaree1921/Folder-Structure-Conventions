@@ -12,7 +12,7 @@ Folder Structure Conventions
     ├── test                    # Automated tests (alternatively `spec` or `tests`)
     ├── tools                   # Tools and utilities
     ├── LICENSE
-    └── README.md
+    └── README.md ok
 
 > Use short lowercase names at least for the top-level files and folders except
 > `LICENSE`, `README.md`
